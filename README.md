@@ -1,5 +1,9 @@
 # learn
 for learning
 
-30 Days Prgramming Challenge here for begginer with Javascript, SQL Queries, Some logica development with Java Prograams
+30 Days programming Challenge here for beginner with Javascript, SQL Queries, Some logic development with Java programs
 along with React development
+
+
+References - 
+https://www.learn-js.org/
