@@ -1,7 +1,7 @@
 Online Shopping - 
 
 Rogger company sell different products so they want online solution to sell products 
-User who wants to but prodcuts they should first reigister & login to buy prodcuts by placing order and do payment online 
+User who wants to buy prodcuts they should first reigister & login to buy prodcuts by placing order and do payment online 
 ---------------------------------------------------------------------------------------------------------------------
 User - Should register with mobile/email to buy products 
 Products - Product are from different categoris like - Mobile, Home Appliances, Baby products, apperals, Grocery, etc... 
