@@ -1,0 +1,22 @@
+Online Shopping - 
+
+Rogger company sell different products so they want online solution to sell products 
+User who wants to but prodcuts they should first reigister & login to buy prodcuts by placing order and do payment online 
+---------------------------------------------------------------------------------------------------------------------
+User - Should register with mobile/email to buy products 
+Products - Product are from different categoris like - Mobile, Home Appliances, Baby products, apperals, Grocery, etc... 
+...
+
+TODO#: list all entities and describe it in 1/2 lines like above 
+---------------------------------------------------------------------------------------------------------------------
+TODO#: relate all entities - ER diagram - may visual 
+---------------------------------------------------------------------------------------------------------------------
+TODO#: List attributes for all entities 
+---------------------------------------------------------------------------------------------------------------------
+TODO#: add realtion-ship to entities
+---------------------------------------------------------------------------------------------------------------------
+TODO#: 
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+
