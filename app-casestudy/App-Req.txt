@@ -9,7 +9,7 @@ Products - Product are from different categoris like - Mobile, Home Appliances, 
 
 TODO#: list all entities and describe it in 1/2 lines like above 
 ---------------------------------------------------------------------------------------------------------------------
-TODO#: relate all entities - ER diagram - may visual 
+TODO#: relate all entities - ER diagram - may visual help more to understand 
 ---------------------------------------------------------------------------------------------------------------------
 TODO#: List attributes for all entities 
 ---------------------------------------------------------------------------------------------------------------------
